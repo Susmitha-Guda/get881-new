@@ -18,4 +18,9 @@ public void prod(int num1,int num2)
 	System.out.println("mul= "+(num1*num2));
 	
 }
+	public void division(int num1,int num2)
+{
+	System.out.println("division= "+(num1*num2));
+	
+}
 }
